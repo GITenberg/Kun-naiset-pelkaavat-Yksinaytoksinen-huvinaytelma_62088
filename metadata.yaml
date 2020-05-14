@@ -1,11 +1,16 @@
 _repo: Kun-naiset-pelkaavat-Yksinaytoksinen-huvinaytelma_62088
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Vuoksinen, Ville
     gutenberg_agent_id: '51767'
     url: http://www.gutenberg.org/2009/agents/51767
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62088#Kun-naiset-pelkaavat-Yksinaytoksinen-huvinaytelma
 gutenberg_issued: '2020-05-10'
 gutenberg_type: Text
 identifiers:
